@@ -1,0 +1,3 @@
+[submodule "angularJs"]
+	path = angularJs
+	url = ./
